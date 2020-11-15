@@ -1,0 +1,4 @@
+name: dartmidterms
+dependencies:
+  emojis: ^0.9.3
+  deep_collection: 0.1.5+1
